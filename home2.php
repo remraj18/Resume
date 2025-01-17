@@ -59,9 +59,7 @@
     <header id="edit" class="h-screen flex items-center justify-center bg-cover bg-center" style="background-image: url('resumemaker-main.jpg');">
         <div class="bg-black bg-opacity-70 p-8 rounded text-center">
             <h3 class="text-4xl text-red-500 font-bold mb-4">RESUME EDITOR</h3>
-            <a href="https://www.sejda.com/pdf-editor" class="px-6 py-3 bg-red-500 text-white font-medium rounded hover:bg-red-600 transition">
-                EDIT RESUME NOW
-            </a>
+            
         </div>
     </header>
 
